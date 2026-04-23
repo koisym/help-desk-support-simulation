@@ -1,0 +1,27 @@
+# Lab Notes
+
+## Summary
+
+This project was created to practice common help desk troubleshooting scenarios in a Windows environment.
+
+## What Worked
+
+- Task Manager performance checks
+- Startup program review
+- Network diagnostics commands
+- Account management tasks
+- Printer queue and service review
+
+## Problems I Had
+
+- Initial VM setup and performance tuning
+- Creating realistic support scenarios
+- Organizing screenshots and documentation
+
+## What I Learned
+
+This project helped me get more comfortable using standard Windows support tools and following a structured troubleshooting process.
+
+## Next Time
+
+I would like to add more advanced tickets such as VPN issues, Outlook problems, software installs, and remote support scenarios.
